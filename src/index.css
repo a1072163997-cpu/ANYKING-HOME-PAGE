@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-graphite: #25282B;
+  --color-warm-white: #F6F4EF;
+  --color-silver: #C8CBCB;
+  --color-space-gray: #5E6265;
+  --color-starlight: #E6DDCE;
+}
+
+:root {
+  --brand-core: #25282B;
+  --brand-space: #F6F4EF;
+  --hardware-silver: #C8CBCB;
+  --functional-gray: #5E6265;
+  --emotional-starlight: #E6DDCE;
+}
+
+body {
+  background-color: #F6F4EF;
+  color: #25282B;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
+}

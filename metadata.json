@@ -1,0 +1,6 @@
+{
+  "name": "ANYKING - GO. UNFOLD.",
+  "description": "ANYKING 笔记本三屏扩展器官方网站，沉浸式三屏展开体验与 Mobile Work Culture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
